@@ -3,7 +3,7 @@ layout: post
 title: Randomised national land management pathways for net-zero emissions
 subtitle: An Irish case study
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/2022-10-09_fig1.png
+thumbnail-img: /assets/img/2022-10-09f_ig1.png
 share-img: /assets/img/path.jpg
 tags: [test]
 ---
