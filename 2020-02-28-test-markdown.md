@@ -26,6 +26,8 @@ Here's a useless table:
 
 How about a yummy crepe?
 
+**Figure 1:** Average values for herd reduction, annual afforestation rates (to 2050) and proportion of total available drained organic grassland area rewetted. Icon credits: [Freepik](https:/www.flaticon.com)
+
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 It can also be centered!
