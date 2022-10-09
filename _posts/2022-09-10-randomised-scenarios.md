@@ -5,7 +5,7 @@ subtitle: An Irish case study
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [net-zero, test]
+tags: [test]
 ---
 
 As the world experiences unprecedented drought conditions, the pressing need to find feasible pathways to “net-zero” emissions is emphatically underscored. The Intergovernmental Panel on Climate Change has made clear that stabilisation of the climate will require, at least, the achievement of net-zero CO2 emissions and strong and sustained reductions in CH4 emissions. Modelling for global climate stabilisation scenarios lacks national level resolution, particularly for the agriculture, forestry, and other land use (AFOLU) sector. Higher resolution scenario modelling is urgently needed to inform effective climate action by governments, companies and individuals. Ireland provides a unique case study opportunity given the juxtaposition between expansion of a profitable and comparatively, efficient agri-food sector and increasingly pressing climate targets
