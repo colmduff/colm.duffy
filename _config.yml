@@ -21,10 +21,10 @@ author: Colm Duffy
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects:
+    - SeQUEsTER: "https://www.plantagbiosciences.org/project/sequester/homepage/"
+    - Eir-flux: "https://www.eirflux.ie"
+  Research:
 
 ################
 # --- Logo --- #
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "colm.duffy.ie"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -129,11 +129,12 @@ navbar-var-length: false
 # "#FFFFFF" = white
 # "#30415D" = indigo
 # "#8EAEBD" = light blue
+# "#F8F8FF" = Ghost White
 navbar-col: "#CF6766" #"#031424" #"#EAEAEA"
 navbar-text-col: "#FFFFFF" #"#404040"
 navbar-border-col: "#30415D" #"#DDDDDD"
 page-col: "#30415D" #"#FFFFFF"
-text-col: "#404040"
+text-col: "#F8F8FF" #"#404040"
 link-col: "#008AFF"
 hover-col: "#8EAEBD" #"#0085A1"
 footer-col: "#031424" #"#EAEAEA"
