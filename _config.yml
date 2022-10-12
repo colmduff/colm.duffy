@@ -22,6 +22,7 @@ author: Colm Duffy
 navbar-links:
   About Me: "aboutme"
   Projects:
+    - SusCoRiDa: "http://suscorida.bangor.ac.uk/"
     - SeQUEsTER: "https://www.plantagbiosciences.org/project/sequester/homepage/"
     - Eir-flux: "https://www.eirflux.ie"
   Research:

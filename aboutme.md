@@ -1,15 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Hi!,
+My name is Colm Duffy, and I am highly motivated by environmental and social justice. I went to university as a mature student, and that gave me the opportunity to work in many different contexts such as Malawi with the World AgroForestry Centre ([ICRAF](https://www.worldagroforestry.org/))
 
 ### My story
 
