@@ -25,7 +25,7 @@ navbar-links:
     - SusCoRiDa: "http://suscorida.bangor.ac.uk/"
     - SeQUEsTER: "https://www.plantagbiosciences.org/project/sequester/homepage/"
     - Eir-flux: "https://www.eirflux.ie"
-  Research:
+  Research: "research"
 
 ################
 # --- Logo --- #
