@@ -53,13 +53,13 @@ social-network-links:
   email: "colm.duffy@ul.ie"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: "https://github.com/colmduff"
-  twitter: "https://twitter.com/colm_duffy"
+  github: colmduff
+  twitter: colm_duffy
   #patreon: DeanAttali
   #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: colm-duffy-06b99371
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -72,8 +72,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0000-0002-0076-6749
+  google-scholar: Rqj7SVcAAAAJ
 #  discord: invite/invite_code or users/userid
 #  kaggle: yourname
 #  hackerrank: yourname
