@@ -34,5 +34,5 @@ The list below contains a summary of publications, however, this list changes fr
 
 - Toth GG, Nair PR, Jacobson M, Widyaningsih Y, **Duffy CP** (2017b) [Malawi’s Energy Needs and Agroforestry: Adoption Potential of Woodlots](https://bit.ly/3S2c3Lg).
 
-##PhD Students
+## PhD Students
 - Daniel Henn, University of Limerick - Assessment of strategies to mitigate greenhouse gas and ammonia emissions from dairy production systems in Ireland through modelling and LCA analysis.
