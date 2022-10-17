@@ -2,9 +2,9 @@
 layout: post
 title: Randomised national land management pathways for net-zero emissions
 subtitle: An Irish case study
-cover-img: /assets/img/blog_posts/Randomised_national_land_management_pathways_for_net-zero_emissions/dairy_img.jpg
+cover-img: /assets/img/blog_posts/Randomised_national_land_management_pathways_for_net-zero_emissions/background.jpg
 thumbnail-img: /assets/img/blog_posts/Randomised_national_land_management_pathways_for_net-zero_emissions/2022-10-09_fig1.png
-share-img: /assets/img/blog_posts/Randomised_national_land_management_pathways_for_net-zero_emissions/dairy_img.jpg
+share-img: /assets/img/blog_posts/Randomised_national_land_management_pathways_for_net-zero_emissions/background.jpg
 tags: [net-zero, climate change, forestry, livestock, Ireland]
 ---
 
