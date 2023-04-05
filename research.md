@@ -8,6 +8,8 @@ The list below contains a summary of research and publications.
 However, this list changes frequently. See my [Google Scholar](https://scholar.google.com/citations?user=Rqj7SVcAAAAJ&hl=en) profile for any additional articles.
 
 ## First Author Publications
+- Duffy, C et al. (2023) [Optimising sustainability: Circular pathways for Scotch Whisky distillery co-products](https://www.sciencedirect.com/science/article/pii/S0959652623005942). Journal of Cleaner Production
+
 - Duffy, C et al. (2022) [Randomized national land management strategies for net-zero emissions](https://go.nature.com/3CyP5Wq). Nature Sustainability
 
 - Duffy, C et al. (2022) [GOBLIN version 1.0: a land balance model to identify national agriculture and land use pathways to climate neutrality via backcasting](https://gmd.copernicus.org/articles/15/2239/2022/). Geoscientific Model Development
